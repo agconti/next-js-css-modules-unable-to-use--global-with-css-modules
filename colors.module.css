@@ -1,1 +1,5 @@
-$color-primary: blue;
+:global {
+    body: {
+        background-color: red;
+    }
+}
